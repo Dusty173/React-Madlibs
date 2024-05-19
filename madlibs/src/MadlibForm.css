@@ -1,0 +1,19 @@
+form input{
+    border-radius: 5px;
+    background-color: rgb(209, 209, 209);
+}
+
+form input:focus {
+    background-color: white;
+}
+
+form button {
+    border-radius: 5px;
+    border-style: none;
+    color: white;
+    background-color: blue;
+}
+
+form button:hover{
+    background-color: lightblue;
+}
